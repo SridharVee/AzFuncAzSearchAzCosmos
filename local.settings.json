@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SearchServiceName": "rtkma1-search",
+    "SearchServiceAdminApiKey": "6F6780B77FE819DBC869259E7927D24A",
+    "SearchIndexName": "cosmosdb-index3"
+  }
+}
